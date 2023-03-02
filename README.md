@@ -38,8 +38,8 @@ This repository contains a simple task manager project created on Visual Studio 
 
 ### Built With
 
-* [![Python]][python.org/downloads/]
-* [![VisualStudioCode]][https://code.visualstudio.com/download]
+* [Python](python.org/downloads/)
+* [VisualStudioCode](https://code.visualstudio.com/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
