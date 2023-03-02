@@ -79,7 +79,7 @@ Program that allows the user to track tasks and users assigned to tasks and add 
 
 Esther Slabbert - super.ejs@gmail.com
 
-Project Link: [https://github.com/EstherSlabbert/Regression-models](https://github.com/EstherSlabbert/Regression-models)
+Project Link: [https://github.com/EstherSlabbert/Task-manager](https://github.com/EstherSlabbert/Task-manager)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
